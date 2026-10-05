@@ -1,0 +1,155 @@
+README.md
+  s_bed472eba0cf2d::t_a88367ff100a76 156-174
+devin/README.md
+  s_bed472eba0cf2d::t_cd2b879f2f1514 1-91
+devin/import-manifest.json
+  s_bed472eba0cf2d::t_d04fa5636d985c 1-80
+devin/skills/sc-agent-backend-architect/SKILL.md
+  s_bed472eba0cf2d::t_dce550286bc7d0 1-54
+devin/skills/sc-agent-business-panel-experts/SKILL.md
+  s_bed472eba0cf2d::t_50e68897128b6c 1-252
+devin/skills/sc-agent-deep-research-agent/SKILL.md
+  s_bed472eba0cf2d::t_d79707cca812ba 1-191
+devin/skills/sc-agent-deep-research/SKILL.md
+  s_bed472eba0cf2d::t_a11c0fc580ed25 1-37
+devin/skills/sc-agent-devops-architect/SKILL.md
+  s_bed472eba0cf2d::t_5a47c6e7d41493 1-54
+devin/skills/sc-agent-frontend-architect/SKILL.md
+  s_bed472eba0cf2d::t_8f0492395dccfc 1-54
+devin/skills/sc-agent-learning-guide/SKILL.md
+  s_bed472eba0cf2d::t_f1729cee8d77a7 1-54
+devin/skills/sc-agent-performance-engineer/SKILL.md
+  s_bed472eba0cf2d::t_e7702166c6abdf 1-54
+devin/skills/sc-agent-pm-agent/SKILL.md
+  s_bed472eba0cf2d::t_c36b3b6749b2ef 1-698
+devin/skills/sc-agent-python-expert/SKILL.md
+  s_bed472eba0cf2d::t_4b2206e4a2fdc3 1-54
+devin/skills/sc-agent-quality-engineer/SKILL.md
+  s_bed472eba0cf2d::t_c3b63f1429cfcf 1-54
+devin/skills/sc-agent-refactoring-expert/SKILL.md
+  s_bed472eba0cf2d::t_237604edfed5d6 1-54
+devin/skills/sc-agent-repo-index/SKILL.md
+  s_bed472eba0cf2d::t_a69f1ed4365acf 1-36
+devin/skills/sc-agent-requirements-analyst/SKILL.md
+  s_bed472eba0cf2d::t_35dc36faad2335 1-54
+devin/skills/sc-agent-root-cause-analyst/SKILL.md
+  s_bed472eba0cf2d::t_073da4be3491ed 1-54
+devin/skills/sc-agent-security-engineer/SKILL.md
+  s_bed472eba0cf2d::t_c6f70f6382dd52 1-56
+devin/skills/sc-agent-self-review/SKILL.md
+  s_bed472eba0cf2d::t_460afa24f35b0b 1-39
+devin/skills/sc-agent-socratic-mentor/SKILL.md
+  s_bed472eba0cf2d::t_d621aa3270c130 1-297
+devin/skills/sc-agent-system-architect/SKILL.md
+  s_bed472eba0cf2d::t_280f653c165c42 1-54
+devin/skills/sc-agent-technical-writer/SKILL.md
+  s_bed472eba0cf2d::t_7869cb33d0fd7c 1-54
+devin/skills/sc-agent/SKILL.md
+  s_bed472eba0cf2d::t_d29b527f929e39 1-81
+devin/skills/sc-analyze/SKILL.md
+  s_bed472eba0cf2d::t_e3147ea3c1e733 1-91
+devin/skills/sc-brainstorm-command/SKILL.md
+  s_bed472eba0cf2d::t_d76ca34fa76863 1-103
+devin/skills/sc-brainstorm/SKILL.md
+  s_bed472eba0cf2d::t_fc62d0f5aca45d 1-49
+devin/skills/sc-build/SKILL.md
+  s_bed472eba0cf2d::t_af3524d297d82f 1-96
+devin/skills/sc-business-panel/SKILL.md
+  s_bed472eba0cf2d::t_36db52d7b999c4 1-91
+devin/skills/sc-cleanup/SKILL.md
+  s_bed472eba0cf2d::t_c80be2e93685cd 1-96
+devin/skills/sc-confidence-check/SKILL.md
+  s_bed472eba0cf2d::t_cf5dfb9cf25f9b 1-129
+devin/skills/sc-confidence-check/confidence.ts
+  s_bed472eba0cf2d::t_ca8756c366f858 1-332
+devin/skills/sc-deep-research/SKILL.md
+  s_bed472eba0cf2d::t_96341657847570 1-52
+devin/skills/sc-design/SKILL.md
+  s_bed472eba0cf2d::t_1e222bbf1e82f6 1-90
+devin/skills/sc-document/SKILL.md
+  s_bed472eba0cf2d::t_710094708ea624 1-90
+devin/skills/sc-estimate/SKILL.md
+  s_bed472eba0cf2d::t_e0be8fadc7cad0 1-89
+devin/skills/sc-explain/SKILL.md
+  s_bed472eba0cf2d::t_7f3ad9ee548a56 1-95
+devin/skills/sc-git/SKILL.md
+  s_bed472eba0cf2d::t_ae5f542afdc57f 1-82
+devin/skills/sc-help/SKILL.md
+  s_bed472eba0cf2d::t_052c29cb283dbc 1-150
+devin/skills/sc-implement/SKILL.md
+  s_bed472eba0cf2d::t_f1d421fdb8e098 1-100
+devin/skills/sc-improve/SKILL.md
+  s_bed472eba0cf2d::t_03c9f0ae24a330 1-96
+devin/skills/sc-index-repo/SKILL.md
+  s_bed472eba0cf2d::t_3e27f5ddb24574 1-170
+devin/skills/sc-index/SKILL.md
+  s_bed472eba0cf2d::t_64eba5a0658a2e 1-89
+devin/skills/sc-load/SKILL.md
+  s_bed472eba0cf2d::t_d5d615df693852 1-95
+devin/skills/sc-mode-brainstorming/SKILL.md
+  s_bed472eba0cf2d::t_90652a5f3cd1b1 1-54
+devin/skills/sc-mode-business-panel/SKILL.md
+  s_bed472eba0cf2d::t_d510e8e82d5d07 1-345
+devin/skills/sc-mode-deepresearch/SKILL.md
+  s_bed472eba0cf2d::t_edbb0f1348f37c 1-63
+devin/skills/sc-mode-introspection/SKILL.md
+  s_bed472eba0cf2d::t_ca63eaa2fd7caf 1-49
+devin/skills/sc-mode-orchestration/SKILL.md
+  s_bed472eba0cf2d::t_de957b93a34eb4 1-77
+devin/skills/sc-mode-task-management/SKILL.md
+  s_bed472eba0cf2d::t_a5d8c285c00356 1-113
+devin/skills/sc-mode-token-efficiency/SKILL.md
+  s_bed472eba0cf2d::t_05dcbb74a3f695 1-85
+devin/skills/sc-pm-command/SKILL.md
+  s_bed472eba0cf2d::t_8951dfc981a94b 1-594
+devin/skills/sc-pm/SKILL.md
+  s_bed472eba0cf2d::t_cfa1574c2b8f2f 1-59
+devin/skills/sc-recommend/SKILL.md
+  s_bed472eba0cf2d::t_5c286bf1784984 1-1010
+devin/skills/sc-reflect/SKILL.md
+  s_bed472eba0cf2d::t_fd604839d099ee 1-90
+devin/skills/sc-research/SKILL.md
+  s_bed472eba0cf2d::t_16af360b65de09 1-105
+devin/skills/sc-save/SKILL.md
+  s_bed472eba0cf2d::t_f1849e39378999 1-95
+devin/skills/sc-select-tool/SKILL.md
+  s_bed472eba0cf2d::t_56b3a4134cebf7 1-89
+devin/skills/sc-spawn/SKILL.md
+  s_bed472eba0cf2d::t_12243c74464a1c 1-87
+devin/skills/sc-spec-panel/SKILL.md
+  s_bed472eba0cf2d::t_8cb2c23a075f67 1-431
+devin/skills/sc-task/SKILL.md
+  s_bed472eba0cf2d::t_fb428b95ac6f7d 1-92
+devin/skills/sc-test/SKILL.md
+  s_bed472eba0cf2d::t_60459f118f9ff7 1-95
+devin/skills/sc-token-efficiency/SKILL.md
+  s_bed472eba0cf2d::t_424ce7cae8b4f0 1-23
+devin/skills/sc-troubleshoot-command/SKILL.md
+  s_bed472eba0cf2d::t_056c91d5acb736 1-90
+devin/skills/sc-troubleshoot/SKILL.md
+  s_bed472eba0cf2d::t_9e8d0c9ea7f663 1-45
+devin/skills/sc-workflow/SKILL.md
+  s_bed472eba0cf2d::t_25f059702c7756 1-100
+devin/skills/sc/SKILL.md
+  s_bed472eba0cf2d::t_89c0efd3e4d1ae 1-135
+devin/superclaude-import/SKILL.md
+  s_bed472eba0cf2d::t_6b1dd914c1bba5 1-89
+devin/superclaude-import/import_superclaude.py
+  s_bed472eba0cf2d::t_0a269d393bbd67 1-490
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "206c7f87f6e21a7c4991c8638f2ca8c1ea648363",
+  "prompts": {},
+  "sessions": {
+    "s_bed472eba0cf2d": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_bed472eba0cf2d",
+        "model": "unknown"
+      },
+      "human_author": "Robin L. M. Cheung, MBA <robin@robin.mba>"
+    }
+  }
+}
