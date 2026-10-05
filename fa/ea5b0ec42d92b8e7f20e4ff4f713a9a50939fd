@@ -1,0 +1,25 @@
+INSTALL_CLAUDE.md
+  s_acf4197c24537b::t_3b293d65ac7600 1-29
+INSTALL_DEVIN.md
+  s_acf4197c24537b::t_b7b68eee68999b 1-32
+INSTALL_ZCODE.md
+  s_acf4197c24537b::t_73cffdaf3d85b2 1-32
+README.md
+  s_acf4197c24537b::t_a28ad46219d2f3 120-123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "faea5b0ec42d92b8e7f20e4ff4f713a9a50939fd",
+  "prompts": {},
+  "sessions": {
+    "s_acf4197c24537b": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_acf4197c24537b",
+        "model": "unknown"
+      },
+      "human_author": "Robin L. M. Cheung, MBA <robin@robin.mba>"
+    }
+  }
+}
