@@ -109,6 +109,14 @@ Claude Code is a product built and maintained by [Anthropic](https://www.anthrop
 
 ## ⚡ **Quick Installation**
 
+**This fork — one-liner installers** (pick your runtime):
+
+```bash
+./superclaude.sh    # Claude Code  (superclaude.bat on Windows)
+./superzcode.sh     # ZCode / GLM-5.x  (superzcode.bat on Windows)
+./superdevin.sh     # Devin CLI / Windsurf  (superdevin.bat on Windows)
+```
+
 > **IMPORTANT**: The TypeScript plugin system described in older documentation is
 > not yet available (planned for v5.0). For current installation
 > instructions, please follow the steps below for v4.x.
