@@ -1,0 +1,31 @@
+README.md
+  s_02a0aa85b84c94::t_3f18003cdc8e45 112-119
+superclaude.bat
+  s_02a0aa85b84c94::t_f278014b1166e6 1-30
+superclaude.sh
+  s_02a0aa85b84c94::t_0725699beb4b1d 1-24
+superdevin.bat
+  s_02a0aa85b84c94::t_9359ffcf80688b 1-20
+superdevin.sh
+  s_02a0aa85b84c94::t_1eb3e62593a7dd 1-23
+superzcode.bat
+  s_02a0aa85b84c94::t_77224206b9803a 1-21
+superzcode.sh
+  s_02a0aa85b84c94::t_560eab443b842a 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3e57337d91f453cb6a7dd606d4e16d9ad3f89327",
+  "prompts": {},
+  "sessions": {
+    "s_02a0aa85b84c94": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_02a0aa85b84c94",
+        "model": "unknown"
+      },
+      "human_author": "Robin L. M. Cheung, MBA <robin@robin.mba>"
+    }
+  }
+}
