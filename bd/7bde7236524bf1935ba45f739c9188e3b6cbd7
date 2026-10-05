@@ -1,0 +1,233 @@
+.zcode-plugin/marketplace.json
+  s_330735728209f2::t_76f08980c0bfc4 1-14
+README.md
+  s_330735728209f2::t_85a7340af38091 175-189
+marketplace.json
+  s_330735728209f2::t_4062aacaf59467 1-14
+zcode/README.md
+  s_330735728209f2::t_9b971fe392c912 1-114
+zcode/import_superclaude_zcode.py
+  s_330735728209f2::t_0ce60c4a111f85 1-405
+zcode/superclaude-import/SKILL.md
+  s_330735728209f2::t_2f9298ca2ade85 1-48
+zcode/superclaude-import/import_superclaude_zcode.py
+  s_330735728209f2::t_f183795fe2a2e7 1-405
+zcode/superclaude/.mcp.json
+  s_330735728209f2::t_694b844af5cb28 1-12
+zcode/superclaude/.zcode-plugin/plugin.json
+  s_330735728209f2::t_7c44bac1847e8d 1-24
+zcode/superclaude/README.md
+  s_330735728209f2::t_d3de68c0dda2a7 1-65
+zcode/superclaude/agents/sc-backend-architect.md
+  s_330735728209f2::t_9ec9417195b32f 1-53
+zcode/superclaude/agents/sc-business-panel-experts.md
+  s_330735728209f2::t_ccd196119dd0a7 1-251
+zcode/superclaude/agents/sc-deep-research-agent.md
+  s_330735728209f2::t_6ed5924303a6bd 1-190
+zcode/superclaude/agents/sc-deep-research.md
+  s_330735728209f2::t_773ec17a261e1a 1-36
+zcode/superclaude/agents/sc-devops-architect.md
+  s_330735728209f2::t_9eb77921097a2d 1-53
+zcode/superclaude/agents/sc-frontend-architect.md
+  s_330735728209f2::t_266b716c05738a 1-53
+zcode/superclaude/agents/sc-learning-guide.md
+  s_330735728209f2::t_04caa93e07431f 1-53
+zcode/superclaude/agents/sc-performance-engineer.md
+  s_330735728209f2::t_5cdf0435b77004 1-53
+zcode/superclaude/agents/sc-pm-agent.md
+  s_330735728209f2::t_93c681582ccabb 1-697
+zcode/superclaude/agents/sc-python-expert.md
+  s_330735728209f2::t_8786ac9b76f4f2 1-53
+zcode/superclaude/agents/sc-quality-engineer.md
+  s_330735728209f2::t_75f41bc39fe011 1-53
+zcode/superclaude/agents/sc-refactoring-expert.md
+  s_330735728209f2::t_baf9abd2f50443 1-53
+zcode/superclaude/agents/sc-repo-index.md
+  s_330735728209f2::t_e911cfdcdcd1db 1-35
+zcode/superclaude/agents/sc-requirements-analyst.md
+  s_330735728209f2::t_cec8e06f8f9dcd 1-53
+zcode/superclaude/agents/sc-root-cause-analyst.md
+  s_330735728209f2::t_638e112bbafde0 1-53
+zcode/superclaude/agents/sc-security-engineer.md
+  s_330735728209f2::t_6fa1507283fe4c 1-55
+zcode/superclaude/agents/sc-self-review.md
+  s_330735728209f2::t_f9fddca154203c 1-38
+zcode/superclaude/agents/sc-socratic-mentor.md
+  s_330735728209f2::t_0d47ac40597fde 1-296
+zcode/superclaude/agents/sc-system-architect.md
+  s_330735728209f2::t_06959c63f4d3e3 1-53
+zcode/superclaude/agents/sc-technical-writer.md
+  s_330735728209f2::t_4255512bc8be5d 1-53
+zcode/superclaude/commands/sc-agent.md
+  s_330735728209f2::t_d9adf46c98c151 1-80
+zcode/superclaude/commands/sc-analyze.md
+  s_330735728209f2::t_d2a76fdb6a77af 1-90
+zcode/superclaude/commands/sc-brainstorm.md
+  s_330735728209f2::t_fa9716decfa362 1-102
+zcode/superclaude/commands/sc-build.md
+  s_330735728209f2::t_463a409faabee1 1-95
+zcode/superclaude/commands/sc-business-panel.md
+  s_330735728209f2::t_1624323aa34ec3 1-90
+zcode/superclaude/commands/sc-cleanup.md
+  s_330735728209f2::t_e88d920d8376ed 1-95
+zcode/superclaude/commands/sc-design.md
+  s_330735728209f2::t_b6f75730991f9f 1-89
+zcode/superclaude/commands/sc-document.md
+  s_330735728209f2::t_04056be22938f4 1-89
+zcode/superclaude/commands/sc-estimate.md
+  s_330735728209f2::t_b6c35ec970eb80 1-88
+zcode/superclaude/commands/sc-explain.md
+  s_330735728209f2::t_b2fa316dddde17 1-94
+zcode/superclaude/commands/sc-git.md
+  s_330735728209f2::t_1c18e48d5ce639 1-81
+zcode/superclaude/commands/sc-help.md
+  s_330735728209f2::t_5afb13e01da881 1-149
+zcode/superclaude/commands/sc-implement.md
+  s_330735728209f2::t_73bcdea4a42365 1-99
+zcode/superclaude/commands/sc-improve.md
+  s_330735728209f2::t_01e810fbfeb257 1-95
+zcode/superclaude/commands/sc-index-repo.md
+  s_330735728209f2::t_3bfef776e95f9c 1-170
+zcode/superclaude/commands/sc-index.md
+  s_330735728209f2::t_a26176cff06ed2 1-88
+zcode/superclaude/commands/sc-load.md
+  s_330735728209f2::t_65c396c0bc8a65 1-94
+zcode/superclaude/commands/sc-pm.md
+  s_330735728209f2::t_0f138661fec85a 1-593
+zcode/superclaude/commands/sc-recommend.md
+  s_330735728209f2::t_1f97eeab83a8e0 1-1009
+zcode/superclaude/commands/sc-reflect.md
+  s_330735728209f2::t_233300948d7d83 1-89
+zcode/superclaude/commands/sc-research.md
+  s_330735728209f2::t_53e8338230ba95 1-104
+zcode/superclaude/commands/sc-save.md
+  s_330735728209f2::t_d32f3065a53daa 1-94
+zcode/superclaude/commands/sc-select-tool.md
+  s_330735728209f2::t_533a3a01358df0 1-88
+zcode/superclaude/commands/sc-spawn.md
+  s_330735728209f2::t_518706cc9f0ab0 1-86
+zcode/superclaude/commands/sc-spec-panel.md
+  s_330735728209f2::t_fbdd8308299e6d 1-430
+zcode/superclaude/commands/sc-task.md
+  s_330735728209f2::t_7ceeb011ddd7df 1-91
+zcode/superclaude/commands/sc-test.md
+  s_330735728209f2::t_b0d51c2516a601 1-94
+zcode/superclaude/commands/sc-troubleshoot.md
+  s_330735728209f2::t_f64cf5ac53b122 1-89
+zcode/superclaude/commands/sc-workflow.md
+  s_330735728209f2::t_49fea9a4130606 1-99
+zcode/superclaude/commands/sc.md
+  s_330735728209f2::t_a88ec382f3a6a1 1-135
+zcode/superclaude/core/BUSINESS_PANEL_EXAMPLES.md
+  s_330735728209f2::t_97f00f97ce8460 1-279
+zcode/superclaude/core/BUSINESS_SYMBOLS.md
+  s_330735728209f2::t_3fa5b6d6b31be4 1-212
+zcode/superclaude/core/FLAGS.md
+  s_330735728209f2::t_9ae0bb79e3833e 1-133
+zcode/superclaude/core/PRINCIPLES.md
+  s_330735728209f2::t_54981652da3da9 1-60
+zcode/superclaude/core/RESEARCH_CONFIG.md
+  s_330735728209f2::t_4fba3d35093117 1-446
+zcode/superclaude/core/RULES.md
+  s_330735728209f2::t_65013f039228c0 1-287
+zcode/superclaude/examples/deep_research_workflows.md
+  s_330735728209f2::t_84f9b485bb3fec 1-495
+zcode/superclaude/hooks/hooks.json
+  s_330735728209f2::t_9eed3c5022d7be 1-36
+zcode/superclaude/mcp/MCP_Chrome-DevTools.md
+  s_330735728209f2::t_734447c6ad8881 1-32
+zcode/superclaude/mcp/MCP_Context7.md
+  s_330735728209f2::t_78d5501ea4db82 1-30
+zcode/superclaude/mcp/MCP_Magic.md
+  s_330735728209f2::t_36a78f99596b7c 1-31
+zcode/superclaude/mcp/MCP_Morphllm.md
+  s_330735728209f2::t_7e5db6fad44bb1 1-31
+zcode/superclaude/mcp/MCP_Playwright.md
+  s_330735728209f2::t_e3d84aea467d08 1-32
+zcode/superclaude/mcp/MCP_Sequential.md
+  s_330735728209f2::t_419035d82a06a5 1-33
+zcode/superclaude/mcp/MCP_Serena.md
+  s_330735728209f2::t_8032b82b07c066 1-32
+zcode/superclaude/mcp/MCP_Tavily.md
+  s_330735728209f2::t_54308891ab8ce1 1-285
+zcode/superclaude/mcp/configs/context7.json
+  s_330735728209f2::t_1cea121110c151 1-9
+zcode/superclaude/mcp/configs/magic.json
+  s_330735728209f2::t_d742eab890c3b1 1-12
+zcode/superclaude/mcp/configs/morphllm.json
+  s_330735728209f2::t_b9fc307e61821e 1-13
+zcode/superclaude/mcp/configs/playwright.json
+  s_330735728209f2::t_15cb14009e18da 1-8
+zcode/superclaude/mcp/configs/sequential.json
+  s_330735728209f2::t_6412c81f812563 1-9
+zcode/superclaude/mcp/configs/serena-docker.json
+  s_330735728209f2::t_4294453a965ff5 1-14
+zcode/superclaude/mcp/configs/serena.json
+  s_330735728209f2::t_a196594d1e8abf 1-13
+zcode/superclaude/mcp/configs/tavily.json
+  s_330735728209f2::t_c1e6a36de1e0b4 1-13
+zcode/superclaude/modes/MODE_Brainstorming.md
+  s_330735728209f2::t_69acaf36839bf1 1-44
+zcode/superclaude/modes/MODE_Business_Panel.md
+  s_330735728209f2::t_f35a31ef005d15 1-335
+zcode/superclaude/modes/MODE_DeepResearch.md
+  s_330735728209f2::t_bb5e69902dbc9f 1-58
+zcode/superclaude/modes/MODE_Introspection.md
+  s_330735728209f2::t_a05eafa2bcf699 1-39
+zcode/superclaude/modes/MODE_Orchestration.md
+  s_330735728209f2::t_ef9420d2cb1857 1-67
+zcode/superclaude/modes/MODE_Task_Management.md
+  s_330735728209f2::t_bb658a6d8ab1b0 1-103
+zcode/superclaude/modes/MODE_Token_Efficiency.md
+  s_330735728209f2::t_af4744c1d1bb55 1-75
+zcode/superclaude/render-manifest.json
+  s_330735728209f2::t_0cea948506756a 1-72
+zcode/superclaude/scripts/clean_command_names.py
+  s_330735728209f2::t_0e66920bee19af 1-167
+zcode/superclaude/scripts/session-init.sh
+  s_330735728209f2::t_8c69a5d23b50bc 1-30
+zcode/superclaude/skills/sc-brainstorm/SKILL.md
+  s_330735728209f2::t_fafc3d70a9c7d3 1-49
+zcode/superclaude/skills/sc-confidence-check/SKILL.md
+  s_330735728209f2::t_3a76af2175d7e1 1-129
+zcode/superclaude/skills/sc-confidence-check/confidence.ts
+  s_330735728209f2::t_ee72bbb99d244a 1-332
+zcode/superclaude/skills/sc-deep-research/SKILL.md
+  s_330735728209f2::t_5af4f6f4b97475 1-52
+zcode/superclaude/skills/sc-mode-brainstorming/SKILL.md
+  s_330735728209f2::t_c91d77ae44f4a4 1-54
+zcode/superclaude/skills/sc-mode-business-panel/SKILL.md
+  s_330735728209f2::t_cc59bcb87dd73d 1-345
+zcode/superclaude/skills/sc-mode-deepresearch/SKILL.md
+  s_330735728209f2::t_a2f64915510201 1-63
+zcode/superclaude/skills/sc-mode-introspection/SKILL.md
+  s_330735728209f2::t_0e8cffe9b712ae 1-49
+zcode/superclaude/skills/sc-mode-orchestration/SKILL.md
+  s_330735728209f2::t_6887754c9f35d8 1-77
+zcode/superclaude/skills/sc-mode-task-management/SKILL.md
+  s_330735728209f2::t_3f4c5d000bd346 1-113
+zcode/superclaude/skills/sc-mode-token-efficiency/SKILL.md
+  s_330735728209f2::t_c2c91759b22b80 1-85
+zcode/superclaude/skills/sc-pm/SKILL.md
+  s_330735728209f2::t_8395084bc1f1ad 1-59
+zcode/superclaude/skills/sc-token-efficiency/SKILL.md
+  s_330735728209f2::t_ab1b09f33b73d5 1-23
+zcode/superclaude/skills/sc-troubleshoot/SKILL.md
+  s_330735728209f2::t_191bda16c6db30 1-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bd7bde7236524bf1935ba45f739c9188e3b6cbd7",
+  "prompts": {},
+  "sessions": {
+    "s_330735728209f2": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_330735728209f2",
+        "model": "unknown"
+      },
+      "human_author": "Robin L. M. Cheung, MBA <robin@robin.mba>"
+    }
+  }
+}
