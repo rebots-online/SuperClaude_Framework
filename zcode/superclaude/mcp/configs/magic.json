@@ -1,0 +1,12 @@
+{
+  "magic": {
+    "type": "stdio",
+    "command": "npx",
+    "args": [
+      "@21st-dev/magic"
+    ],
+    "env": {
+      "TWENTY_FIRST_API_KEY": ""
+    }
+  }
+}

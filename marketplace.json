@@ -1,0 +1,14 @@
+{
+  "name": "rebots-superclaude",
+  "description": "SuperClaude framework ported for ZCode/GLM-5.x and Devin CLI — rebots-online fork",
+  "plugins": [
+    {
+      "name": "superclaude",
+      "source": "./zcode/superclaude",
+      "description": "SuperClaude for ZCode — 30 /sc-* commands, 19 subagents, 13 skills, hooks, MCP servers",
+      "version": "4.3.0",
+      "category": "Developer Tools",
+      "tags": ["superclaude", "workflow", "agents", "glm", "zcode"]
+    }
+  ]
+}

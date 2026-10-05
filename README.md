@@ -172,6 +172,21 @@ python devin/superclaude-import/import_superclaude.py --components all
 See [devin/README.md](devin/README.md) for the mapping table, caveats, and
 the upstream-sync workflow.
 
+**Option 4: ZCode / GLM-5.x (this fork)**
+
+This fork doubles as a **ZCode marketplace** — [`zcode/`](zcode/README.md)
+contains a ready plugin (`zcode/superclaude/`) bundling all 30 commands
+(`/sc-*`), 19 subagents, 6 skills + 7 modes (`$sc-*`), hooks, and MCP servers.
+
+```
+ZCode → Settings → Plugins → Create → Add marketplace
+      → rebots-online/SuperClaude_Framework → Install 'superclaude'
+```
+
+Or render/copy manually — see [zcode/README.md](zcode/README.md) for the
+GLM-5.x tailoring notes (Goal Mode, thought levels, `$` skills, subagents)
+and direct `~/.zcode/` install commands.
+
 ### **Coming in v5.0 (In Development)**
 
 We are actively working on a new TypeScript plugin system (see issue [#419](https://github.com/SuperClaude-Org/SuperClaude_Framework/issues/419) for details). When released, installation will be simplified to:
