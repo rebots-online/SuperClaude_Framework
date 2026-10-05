@@ -117,6 +117,10 @@ Claude Code is a product built and maintained by [Anthropic](https://www.anthrop
 ./superdevin.sh     # Devin CLI / Windsurf  (superdevin.bat on Windows)
 ```
 
+Prefer a prompt over a script? Paste the matching file's block into your agent:
+[`INSTALL_CLAUDE.md`](INSTALL_CLAUDE.md) · [`INSTALL_ZCODE.md`](INSTALL_ZCODE.md) ·
+[`INSTALL_DEVIN.md`](INSTALL_DEVIN.md)
+
 > **IMPORTANT**: The TypeScript plugin system described in older documentation is
 > not yet available (planned for v5.0). For current installation
 > instructions, please follow the steps below for v4.x.
