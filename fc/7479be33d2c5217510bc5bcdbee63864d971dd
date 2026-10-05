@@ -1,0 +1,29 @@
+INSTALL_CLAUDE.md
+  s_3c2eb1f565ef11::t_c19e5a0e2dd183 25-32
+INSTALL_DEVIN.md
+  s_3c2eb1f565ef11::t_fbc9f18f6b8cbf 29-34
+superclaude.bat
+  s_3c2eb1f565ef11::t_5bc0f3d99408c6 17-18,20-33
+superclaude.sh
+  s_3c2eb1f565ef11::t_b01b9ff9689d2e 16-17,19-34
+superdevin.bat
+  s_3c2eb1f565ef11::t_e698f67c325dfc 17,19-30
+superdevin.sh
+  s_3c2eb1f565ef11::t_8a7ac42ea97ae7 4-7,18-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fc7479be33d2c5217510bc5bcdbee63864d971dd",
+  "prompts": {},
+  "sessions": {
+    "s_3c2eb1f565ef11": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_3c2eb1f565ef11",
+        "model": "unknown"
+      },
+      "human_author": "Robin L. M. Cheung, MBA <robin@robin.mba>"
+    }
+  }
+}
