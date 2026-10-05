@@ -109,7 +109,8 @@ Claude Code is a product built and maintained by [Anthropic](https://www.anthrop
 
 ## ⚡ **Quick Installation**
 
-**This fork — one-liner installers** (pick your runtime):
+**This fork — one-liner installers** (pick your runtime; all install from this
+clone's vendored tree, not PyPI):
 
 ```bash
 ./superclaude.sh    # Claude Code  (superclaude.bat on Windows)

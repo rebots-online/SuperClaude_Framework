@@ -12,17 +12,17 @@ Steps:
    `plugins/superclaude/commands/`), run
    `git clone --depth 1 https://github.com/rebots-online/SuperClaude_Framework.git`
    in a scratch dir and work from there.
-2. Preferred path: if `superclaude` or `pipx` is on PATH, run
-   `pipx install superclaude` (if needed) then `superclaude install` and stop.
-3. Otherwise copy manually:
+2. Copy from this clone (NOT the PyPI package):
    - `plugins/superclaude/commands/*.md` → `~/.claude/commands/sc/`
    - `plugins/superclaude/agents/*.md` → `~/.claude/agents/`
    - `plugins/superclaude/skills/*` → `~/.claude/skills/`
    - `plugins/superclaude/modes/*.md` and `plugins/superclaude/core/*.md` → `~/.claude/`
    Do not overwrite `~/.claude/CLAUDE.md` or `settings.json` if present.
-4. Verify: count files installed (expect ~30 commands, ~19 agents, 6+ skills)
+   (If I say I prefer the official package, you may instead run
+   `pipx install superclaude && superclaude install` — but default to the copy.)
+3. Verify: count files installed (expect ~30 commands, ~19 agents, 6+ skills)
    and list a few of each.
-5. Tell me to restart Claude Code; `/sc:*` commands and `@` agents activate on
+4. Tell me to restart Claude Code; `/sc:*` commands and `@` agents activate on
    the next session. Mention that `.mcp.json`/hooks were not wired and can be
    configured in settings if wanted.
 
