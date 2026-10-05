@@ -1,0 +1,25 @@
+INSTALL_CLAUDE.md
+  s_fa1201fc222505::t_ea1967f13cfaf5 15,21-23,25
+README.md
+  s_fa1201fc222505::t_07e1ec7c4386bf 112-113
+superclaude.bat
+  s_fa1201fc222505::t_a5449434c5b120 2-4,9,11,17-20
+superclaude.sh
+  s_fa1201fc222505::t_1b15e06b7b9dc9 2-4,9,11,13-15,17-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fb262f29c784e72ad74bd9c913c7017792eda757",
+  "prompts": {},
+  "sessions": {
+    "s_fa1201fc222505": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_fa1201fc222505",
+        "model": "unknown"
+      },
+      "human_author": "Robin L. M. Cheung, MBA <robin@robin.mba>"
+    }
+  }
+}
