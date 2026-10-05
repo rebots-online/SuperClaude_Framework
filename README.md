@@ -153,6 +153,25 @@ cd SuperClaude_Framework
 ./install.sh
 ```
 
+**Option 3: Devin CLI / Windsurf (this fork)**
+
+This fork ships a Devin-native port in [`devin/`](devin/README.md): all 30
+`/sc:*` commands, 19 agent personas, 7 modes, and 6 skills pre-rendered as
+Devin skills (invocable as `/sc-*`), plus the `superclaude-import` skill that
+re-renders them from upstream.
+
+```bash
+# Copy the pre-rendered skills (no Python needed)
+xcopy /E /I devin\skills\* "%APPDATA%\devin\skills\"    :: Windows
+cp -r devin/skills/* ~/.config/devin/skills/           # macOS/Linux
+
+# Or fetch + translate upstream yourself (Python 3.10+, stdlib only)
+python devin/superclaude-import/import_superclaude.py --components all
+```
+
+See [devin/README.md](devin/README.md) for the mapping table, caveats, and
+the upstream-sync workflow.
+
 ### **Coming in v5.0 (In Development)**
 
 We are actively working on a new TypeScript plugin system (see issue [#419](https://github.com/SuperClaude-Org/SuperClaude_Framework/issues/419) for details). When released, installation will be simplified to:
