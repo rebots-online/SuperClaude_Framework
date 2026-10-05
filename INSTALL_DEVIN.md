@@ -26,7 +26,12 @@ Steps:
    skip step 4 unless bodies reference the vendor path).
 6. Verify: list the installed `sc-*` skill dirs and confirm counts (30
    commands, 19 agents, 7 modes, 6 skills + 3 `-command` collision variants
-   + `sc`). Tell me they appear under `/` in the next session or after
+   + `sc`).
+7. Ask me whether to register the bundled MCP servers; if yes run
+   `devin mcp add context7 --scope user -- npx -y @upstash/context7-mcp@latest`
+   and `devin mcp add sequential-thinking --scope user -- npx -y @modelcontextprotocol/server-sequential-thinking`
+   (needs `devin` CLI on PATH; otherwise print the commands for me).
+8. Tell me they appear under `/` in the next session or after
    running /skills reload.
 
 ---

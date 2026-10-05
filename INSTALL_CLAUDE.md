@@ -22,8 +22,13 @@ Steps:
    `pipx install superclaude && superclaude install` — but default to the copy.)
 3. Verify: count files installed (expect ~30 commands, ~19 agents, 6+ skills)
    and list a few of each.
-4. Tell me to restart Claude Code; `/sc:*` commands and `@` agents activate on
-   the next session. Mention that `.mcp.json`/hooks were not wired and can be
-   configured in settings if wanted.
+4. Ask me whether to register the two bundled MCP servers; if yes and the
+   `claude` CLI is on PATH run:
+   `claude mcp add context7 -- npx -y @upstash/context7-mcp@latest` and
+   `claude mcp add sequential-thinking -- npx -y @modelcontextprotocol/server-sequential-thinking`.
+   Mention hooks can be merged from `plugins/superclaude/hooks/hooks.json` into
+   `~/.claude/settings.json` if wanted — don't edit it without asking.
+5. Tell me to restart Claude Code; `/sc:*` commands and `@` agents activate on
+   the next session.
 
 ---

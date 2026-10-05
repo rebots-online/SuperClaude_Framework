@@ -14,8 +14,21 @@ xcopy /E /I /Y "%SRC%\agents"   "%DST%\agents" >nul
 xcopy /E /I /Y "%SRC%\skills"   "%DST%\skills" >nul
 xcopy /E /I /Y "%SRC%\modes"    "%DST%" >nul
 xcopy /E /I /Y "%SRC%\core"     "%DST%" >nul
-echo Installed: commands-^>commands\sc (/sc:*), agents, skills, modes+core docs.
+xcopy /E /I /Y "%SRC%\mcp"      "%DST%" >nul
+echo Installed: commands-^>commands\sc (/sc:*), agents, skills, modes+core+mcp docs.
 echo.
-echo Not wired (official installer handles these): .mcp.json, hooks, CLAUDE.md imports.
-echo Configure under Claude Code settings if wanted.
+
+where claude >nul 2>&1 || goto :nocli
+set /p ANSWER=Register context7 + sequential-thinking MCP servers via 'claude mcp add'? [y/N] 
+if /i "%ANSWER%"=="y" (
+    claude mcp add context7 -- npx -y @upstash/context7-mcp@latest
+    claude mcp add sequential-thinking -- npx -y @modelcontextprotocol/server-sequential-thinking
+)
+goto :tail
+:nocli
+echo (claude CLI not found - skipping optional MCP registration)
+echo   To add later: claude mcp add context7 -- npx -y @upstash/context7-mcp@latest
+echo                 claude mcp add sequential-thinking -- npx -y @modelcontextprotocol/server-sequential-thinking
+:tail
+echo Hooks (opt-in): merge %SRC%\hooks\hooks.json into ~/.claude/settings.json "hooks" section.
 echo Restart Claude Code to pick up /sc:* commands.
